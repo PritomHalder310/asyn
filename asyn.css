@@ -1,0 +1,58 @@
+.header{
+  
+    
+    background-image: url('./Assets/Hero-bg.png');
+    height: 698px ; 
+   background-color: rgb(17, 13, 13);
+     box-shadow: 5px 4px 3px rgba(18, 15, 20, 0.726) ;
+     
+     
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 80px ;
+     justify-content: space-around ;
+     padding: 18px;
+      justify-content: space-between;
+      align-items: center;
+  
+    
+}
+/* logo*/
+.cossette-titre-regular {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cossette-titre-bold {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.epunda-slab-uniquifier {
+  font-family: "Epunda Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.inter-uniquifier {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.oswald-uniquifier {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+#ami{
+
+    color: #4E47FF;
+    text-shadow: 02px 02px 03px black;
+    shape-margin: ;
+}
