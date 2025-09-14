@@ -124,3 +124,80 @@ img{
 border-radius: 48px; 
 
 }
+
+.papa{
+  width: auto;
+  
+}
+.skills-container{
+  display: flex;
+    gap: 54px;
+
+}
+.skil{
+     background-color: rgba(253, 253, 253, 0.877);
+     box-shadow: 5px 2px 3px rgba(143, 140, 146, 0.726) ;
+     border-radius: 5px;
+     width: 366px; ;
+
+    }
+
+.img{
+    height: 180px;
+    margin: 15px;
+    
+}    
+.skill-title{
+  margin-left: 10px;
+}
+.skill-description{
+    margin-left: 10px ;}
+.mom2{
+  gap: 70px;
+  margin-left: 10px;
+}    
+
+.mom3{
+  display: flex;
+  justify-content: space-around ;
+}
+
+.mom6{
+  display: flex;
+}
+.hmm{
+  color: rgba(163, 103, 103, 0.637);
+}
+.hmmm{
+  gap: 10px;
+  margin-left:10px;
+}
+/*banner*/
+.banner{  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  background-color: #f4f4f7;
+  border-radius: 10px;
+
+}
+.banana{
+padding: 18px 35px;
+ align-items: center;
+ margin-top: 18px;
+}
+
+/*from*/
+.Touch{ width: auto;
+  background-color: #ffffffc9;
+}
+.form{
+   font-size:larger;
+    height: 64px; width:90% ;
+    border-radius: 5px;
+    background-color: white ;
+    display: block;
+    padding: 10px 20px ;
+    margin-bottom: 24px ;
+    border: none;
+}
