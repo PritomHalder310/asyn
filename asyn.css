@@ -201,3 +201,71 @@ padding: 18px 35px;
     margin-bottom: 24px ;
     border: none;
 }
+footer input[type='text'] , footer input[type="email"] ,footer textarea  { font-size:larger;
+    height: 54px; width:95% ;
+    border-radius: 5px;
+    background-color: rgba(248, 236, 236, 0.904) ;
+    display: block;
+    padding: 10px 20px ;
+    margin-bottom: 24px ;
+    border: none;
+}
+.ami8{
+  
+ height: 54px; width:108% ;
+}
+
+/*footer*/
+.ami10{ color:#4E47FF ;
+        font-size: 70px;
+
+}
+
+.cossette-titre-2 {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cossette-titre-bold {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ami11{ 
+  padding: 50px;
+  text-align: center;
+}
+.hi{
+gap: 15px;
+  padding: 50px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+
+
+}
+.fot{
+  width: auto;
+  background-color: #f4f4f7;
+    
+}
+.last{
+  text-align: center;
+color: #25243252 ;
+text-decoration: none;
+font-size: 20px;
+margin-top: 10px;
+
+}
+.arkoto{
+  
+  justify-content: center;
+  
+}
+.main{
+  
+  margin-top: 0px;
+  gap: 35px;
+  padding: 10px;
+}
